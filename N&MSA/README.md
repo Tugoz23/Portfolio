@@ -8,9 +8,10 @@ The objective was to perform a descriptive and NLP-based analysis of Reddit Wall
 
 Approach
 
-End-to-end work with data understanding, data cleaning, and filtering
-Application of NLP methods for analyzing unstructured text
-Critical evaluation of models and their outputs
+- End-to-end work with data understanding, data cleaning, and filtering
+- Application of NLP methods for analyzing unstructured text
+- Critical evaluation of models and their outputs
+
 
 Methods & Techniques
 
