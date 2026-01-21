@@ -6,14 +6,14 @@ Project Objective:
 
 The objective was to perform a descriptive and NLP-based analysis of Reddit WallStreetBets posts, with a specific focus on GME, including frequent terms and daily average sentiment and emotion analysis, and to compare these patterns with GME stock price movements during January–February 2021. The strengths and limitations of the applied models were also critically discussed.
 
-Approach
+Approach:
 
 - End-to-end work with data understanding, data cleaning, and filtering
 - Application of NLP methods for analyzing unstructured text
 - Critical evaluation of models and their outputs
 
 
-Methods & Techniques
+Methods & Techniques:
 
 - Descriptive statistics (posting volume, average post length)
 - Word frequency analysis 
@@ -22,7 +22,7 @@ Methods & Techniques
 - Zero-shot classification (BART-MNLI)
 
 
-Key Learnings
+Key Learnings:
 
 Data quality and text length have a significant impact on BERT model outputs.
 A potential solution is to split long texts into smaller chunks and aggregate predictions at document leve, although this increases the amount of data processed and computational resource requirements or to apply models specifically designed for longer input sequences.
